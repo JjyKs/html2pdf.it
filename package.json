@@ -14,7 +14,7 @@
   "main": "./lib/app.js",
   "dependencies": {
     "compression": "^1.6.2",
-    "express": "",
+    "express": "^4.16.1",
     "morgan": "^1.8.0",
     "node-uuid": "",
     "request": "",
